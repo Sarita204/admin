@@ -17,7 +17,7 @@ body {
     color: white;
     width: 33px;
     height: 27px;
-    margin: 13px 0px;
+    margin: 19px 0px;
     border-radius: 3px;
     font-size: 12px;
 
@@ -35,7 +35,7 @@ body {
 }
 
 .search {
-    margin: 2px;
+    margin: 27px 16px 0px 16px;
     border: 0px solid white;
     padding: 0px;
     font-size: 13px;
@@ -45,7 +45,7 @@ body {
 
 .welcome {
     display: flex;
-    margin: 2px 100px;
+    margin: 19px -10px 0px 212px;
     border: 0px solid white;
     padding: 0px;
     font-size: 13px;
