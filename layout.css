@@ -20,7 +20,6 @@ body {
     margin: 13px -3px;
     border-radius: 3px;
     font-size: 12px;
-
 }
 
 .fa {
@@ -140,11 +139,10 @@ h5 input {
 }
 
 .main {
-    margin-left: 200px;
     display: flex;
     flex-wrap: wrap;
     margin: 0px 0px 0px 210px;
-    border:0px solid;
+    
 }
     
 
@@ -152,14 +150,13 @@ h5 input {
         background-color: white;
         flex-wrap: wrap;
         display: inline-block;
-        font-size: 14px;
-        margin: -4px 14px 2px 0px;
+        font-size: 11px;
+        margin: -4px 24px 2px 2px;
         padding: 0;
         text-overflow: ellipsis;
-        float: none;
-        border: 1px solid;
+        border: 0px solid white;
         width: 235px;
-        height: 166px;
+        height: 125px;
         
     }
     .header-content {
@@ -190,179 +187,275 @@ h5 input {
 
     .number {
         display: flex;
-        color: gray;
-        margin: -11px 7px -3px 35px;
-        color: inherit;
-        font:inherit;
+        margin: -14px 5px -3px 14px;
+        color: grey;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.2;
+        font-size: 16px;
+        text-align: left;
+    
+    }
+    h1 {
+        font-weight: 100;
     }
     .small{
-        color: blue;
+        color: gray;
+        margin: -22px 0px 0px 17px;
+        text-align: left;
+        font-size: 10px;
+        font-weight: 400;
     }
-
+.percent {
+    text-align: right;
+    margin: -12px -7px 0px 2px;
+    color:#1c84c6;
+}
     .conatiner2 {
-         background-color: white;
-         flex-wrap: wrap;
-         display: inline-block;
-         font-size: 14px;
-         margin: 0px 14px 2px 5px;
-         padding: 0;
-         text-overflow: ellipsis;
-         float: none; 
-         border:1px solid;
-         width:157px;
+        background-color: white;
+        flex-wrap: wrap;
+        display: inline-block;
+        font-size: 11px;
+        margin: -4px 24px 2px 2px;
+        padding: 0;
+        text-overflow: ellipsis;
+        border: 0px solid white;
+        width: 235px;
+        height: 125px;
      }
      .header-content2 {
-         display: flex;
-         font-size: 12px;
-         font-weight: 600;
-         padding: 3px 8px;
-         text-shadow: none;
-         border-radius: 0.25em;
-         line-height: 1;
-         white-space: nowrap; 
+        display: flex;
+        /* float: left; */
+        font-size: 13px;
+        font-weight: 500;
+        padding: 0px 15px;
+        text-shadow: none;
+        border-radius: 0.25em;
+        line-height: 1;
+        white-space: nowrap;
+        margin: -22px 9px 15px 1px;
+        color: gray;
      }
      .subheader-content2{
-         font-size: 10px;
-         font-size: 12px;
-         font-weight: 600;
-         padding: 3px 8px;
-         text-shadow: none;
-         border-radius: 0.25em;
-         line-height: 1;
-         white-space: nowrap; 
-         background-color: green;
+        font-size: 10px;
+        font-weight: 500;
+        padding: 2px 43px 2px 8px;
+        text-shadow: none;
+        border-radius: 0.25em;
+        line-height: 1;
+        white-space: nowrap;
+        background-color: skyblue;
+        color: white;
+        margin: 11px 104px;
      }
      .number2 {
-         display:flex;
-         font-size: 12px;
+        display: flex;
+        margin: -14px 5px -3px 14px;
+        color: grey;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.2;
+        font-size: 16px;
+        text-align: left;
         
      }
-     .small2{
-         color: green;
-     }
+     h1 {
+        font-weight: 100;
+    }
+    .small2{
+        color: gray;
+        margin: -22px 0px 0px 17px;
+        text-align: left;
+        font-size: 10px;
+        font-weight: 400;
+    }
+.percent2 {
+    text-align: right;
+    margin: -12px -7px 0px 2px;
+    color:skyblue;
+}
 
      .conatiner3 {
         background-color: white;
         flex-wrap: wrap;
         display: inline-block;
-        font-size: 14px;
-        margin: 0px 14px 2px 5px;
+        font-size: 11px;
+        margin: -4px 24px 2px 2px;
         padding: 0;
         text-overflow: ellipsis;
-        float: none; 
-        border:1px solid;
-        width:157px;
+        border: 0px solid white;
+        width: 235px;
+        height: 125px;
     }
     .header-content3 {
         display: flex;
-        font-size: 12px;
-        font-weight: 600;
-        padding: 3px 8px;
+        /* float: left; */
+        font-size: 13px;
+        font-weight: 500;
+        padding: 0px 15px;
         text-shadow: none;
         border-radius: 0.25em;
         line-height: 1;
-        white-space: nowrap; 
+        white-space: nowrap;
+        margin: -22px 9px 15px 1px;
+        color: gray;
     }
     .subheader-content3{
         font-size: 10px;
-        font-size: 12px;
-        font-weight: 600;
-        padding: 3px 8px;
+        font-weight: 500;
+        padding: 2px 43px 2px 8px;
         text-shadow: none;
         border-radius: 0.25em;
         line-height: 1;
-        white-space: nowrap; 
-        background-color: rgb(17, 227, 227);
+        white-space: nowrap;
+        background-color:rgb(0, 158, 153);
+        color: white;
+        margin: 11px 104px;
     }
     .number3 {
-        display:flex;
-        font-size: 12px;
-       
+        display: flex;
+        margin: -14px 5px -3px 14px;
+        color: grey;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.2;
+        font-size: 16px;
+        text-align: left;
+        
+     }
+     h1 {
+        font-weight: 100;
     }
     .small3{
-        color: rgb(29, 198, 236);
+        color: gray;
+        margin: -22px 0px 0px 17px;
+        text-align: left;
+        font-size: 10px;
+        font-weight: 400;
     }
+.percent3 {
+    text-align: right;
+    margin: -12px -7px 0px 2px;
+    color:rgb(0, 158, 153);
+}
     .conatiner4 {
         background-color: white;
         flex-wrap: wrap;
         display: inline-block;
-        font-size: 14px;
-        margin: 0px 14px 2px 5px;
+        font-size: 11px;
+        margin: -4px 17px 2px 2px;
         padding: 0;
         text-overflow: ellipsis;
-        float: none; 
-        border:1px solid;
-        width:157px;
+        border: 0px solid white;
+        width: 235px;
+        height: 125px;
     }
     .header-content4 {
         display: flex;
-        font-size: 12px;
-        font-weight: 600;
-        padding: 3px 8px;
+        /* float: left; */
+        font-size: 13px;
+        font-weight: 500;
+        padding: 0px 15px;
         text-shadow: none;
         border-radius: 0.25em;
         line-height: 1;
-        white-space: nowrap; 
+        white-space: nowrap;
+        margin: -22px 9px 15px 1px;
+        color: gray;
     }
     .subheader-content4 {
         font-size: 10px;
-        font-size: 12px;
-        font-weight: 600;
-        padding: 3px 8px;
+        font-weight: 500;
+        padding: 2px 43px 2px 8px;
         text-shadow: none;
         border-radius: 0.25em;
         line-height: 1;
-        white-space: nowrap; 
-        background-color: red;
+        white-space: nowrap;
+        background-color:red;
+        color: white;
+        margin: 11px 104px;
     }
     .number4 {
-        display:flex;
-        font-size: 12px;
-       
+        display: flex;
+        margin: -14px 5px -3px 14px;
+        color: grey;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.2;
+        font-size: 16px;
+        text-align: left;
+        
+     }
+     h1 {
+        font-weight: 100;
     }
-    .small4{
-        color: rgb(234, 17, 17);
+    .small4 {
+        color: gray;
+        margin: -22px 0px 0px 17px;
+        text-align: left;
+        font-size: 10px;
+        font-weight: 400;
     }
+.percent4 {
+    text-align: right;
+    margin: -12px -7px 0px 2px;
+    color:red;
+}
+
+    .main-axis {
+        background-color: white;
+        width: 64rem;
+        height: 15rem;
+        margin: 22px -1px 0px 214px;
+        display: flex;
+        float: left;
+        
+    }
+
     .todays {
+        background-color: whitesmoke;
         font-size: 14px;
-        margin: 17px 17px 281px 16px;
-        border: 1px solid grey;
+        margin: 17px 0px  281px 16px;
+        border: 0px solid grey;
         width: 46px;
         height: 18px;
         text-align: center;
         font-weight: 300;
         font-family: sans-serif;
+        color: gray;
        
     }
     .month {
+        background-color: whitesmoke;
         font-size: 14px;
-        margin: 17px 17px 281px 16px;
-        border: 1px solid grey;
+        margin: 17px 0px 281px 7px;
+        border: 0px solid grey;
         width: 57px;
         height: 18px;
         text-align: center;
         font-weight: 300;
         font-family: sans-serif;
+        color: gray;
        
     }
     .annually {
+            background-color: whitesmoke;
             font-size: 14px;
-            margin: 17px 17px 281px 16px;
-            border: 1px solid grey;
+            margin: 17px 0px 281px 8px;
+            border: 0px solid grey;
             width: 51px;
             height: 18px;
             text-align: center;
             font-weight: 300;
             font-family: sans-serif;
+            color: gray;
            
     }
+    .overview {
+        justify-content: end;
 
-    .main-axis {
-        background-color: white;
-        width: 52rem;
-        height: 20rem;
-        margin: 21px 1px 0px 253px;
-        display: flex;
-        float: left;
-        flex-wrap: wrap;
+        color:gray
     }
+    h3 {
+        font-size: 14px;
+    }
+
+.subtitle {
+    color: grey;
+}
