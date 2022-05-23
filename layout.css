@@ -659,11 +659,11 @@ article {
     color:lightgray;
 }
 h5 {
-    color: #464242;
-    margin: 14px 0px 35px 14px;
-    height: 7px;
-    font-size: 13px;
-    font-weight: 500;
+        color: #464242;
+        margin: 13px 0px 35px 0px;
+        height: 7px;
+        font-size: 13px;
+        font-weight: 500;
 }
 
 
@@ -762,8 +762,6 @@ h5 {
     margin: 20px 15px 15px 19px;
     font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
-
 .message-feeding-list2 {
     border-top: 1px solid #e7eaec;
 }
@@ -856,7 +854,6 @@ h5 {
     font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-
 .message-feeding-list5 {
     border-top: 1px solid #e7eaec;
 }
@@ -925,17 +922,20 @@ section {
     height: 327px;
     margin: -12px 0px 0px -51px;
 }
-.project-box {
-
-    margin:-15px 9px -15px 0px;
+.user{
+    font-size: 14px;
+    margin: -9px 9px 17px 0px;
+    border-bottom: 1px solid #e7eaec;
+    padding: 14px 4px 3px 15px;
+    height: 35px;
 }
-.table {
+
+.tables {
         width: 100%;
         max-width: 100%;
         margin-bottom: 1rem;
         background-color: transparent;
         border-collapse: collapse;
-
 }
 
 thead {
@@ -953,7 +953,6 @@ th {
     line-height: 0px;
     padding: 16px 14px 14px 5px;
     vertical-align: top;
-    border-top: 1px solid #e7eaec;
     font-size: 12px;
     color: #645e5e;
     border-bottom: 2px solid #e7eaec;
@@ -973,10 +972,12 @@ td {
     display: table-cell;
     vertical-align: inherit;
     font-size: 12px;
+
 }
 .text-navy {
     color:rgb(0, 158, 153);
 }
+
 .label {
     font-size: 10px;
     background-color: #f8ac59;
@@ -991,3 +992,111 @@ td {
         margin-left: 8px;
         padding: 2px 4px 2px 4px;
 }
+
+section-2 {
+    float: left;
+    width: 25.8%;
+    background-color: white;
+    height: 327px;
+    margin: -12px 0px 0px 27px;
+}
+.list {
+    font-size: 14px;
+    margin: -9px 9px 17px 0px;
+    border-bottom: 1px solid #e7eaec;
+    padding: 14px 4px 3px 15px;
+    height: 35px;
+}
+.todo-list m-t small-list {
+    background-color: white;
+}
+.text-box {
+    width: 290px;
+    height: 30px;
+    background-color: #f1ecec;
+    margin: 27px 0px 4px 14px;
+}
+
+.check-box {
+    font-size: 12px;
+}
+
+.check-box1 {
+    font-size: 12px;
+}
+.text-box2 {
+    width: 290px;
+    height: 30px;
+    background-color: #f1ecec;
+    margin: -2px 0px 4px 14px;
+}
+
+.check-box2 {
+    font-size: 12px;
+}
+
+.text-box3 {
+    width: 290px;
+    height: 30px;
+    background-color: #f1ecec;
+    margin: -2px 0px 4px 14px;
+}
+
+.check-box3 {
+    font-size: 12px;
+}
+.time {
+    font-size: 10px;
+    background-color: rgb(0, 158, 153);
+    color: #FFFFFF;
+    margin-left: 8px;
+    padding: 0px 20px 14px 2px;
+    width: 20px;
+    height: 3px;
+    float: right;
+}
+
+.text-box4 {
+    width: 290px;
+    height: 30px;
+    background-color: #f1ecec;
+    margin: -2px 0px 4px 14px;
+}
+
+.check-box4 {
+    font-size: 12px;
+}
+
+
+.text-box5 {
+    width: 290px;
+    height: 30px;
+    background-color: #f1ecec;
+    margin: -2px 0px 4px 14px;
+}
+
+.check-box5 {
+    font-size: 12px;
+}
+
+.text-box6 {
+    width: 290px;
+    height: 30px;
+    background-color: #f1ecec;
+    margin: -2px 0px 4px 14px;
+}
+
+.check-box6 {
+    font-size: 12px;
+}
+.text-box7 {
+    width: 290px;
+    height: 30px;
+    background-color: #f1ecec;
+    margin: -2px 0px 4px 14px;
+}
+
+.check-box7 {
+    font-size: 12px;
+}
+
