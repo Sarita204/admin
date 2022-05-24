@@ -1023,6 +1023,7 @@ section-2 {
 
 .check-box1 {
     font-size: 12px;
+    text-decoration: line-through;
 }
 .text-box2 {
     width: 290px;
@@ -1045,15 +1046,16 @@ section-2 {
 .check-box3 {
     font-size: 12px;
 }
+
 .time {
     font-size: 10px;
     background-color: rgb(0, 158, 153);
     color: #FFFFFF;
-    margin-left: 8px;
-    padding: 0px 20px 14px 2px;
-    width: 20px;
-    height: 3px;
+    padding: 0px 26px 19px 2px;
+    width: 9px;
+    height: 10px;
     float: right;
+    margin: 3px 11px 1px 1px;
 }
 
 .text-box4 {
@@ -1077,6 +1079,7 @@ section-2 {
 
 .check-box5 {
     font-size: 12px;
+    text-decoration: line-through;
 }
 
 .text-box6 {
@@ -1099,4 +1102,40 @@ section-2 {
 .check-box7 {
     font-size: 12px;
 }
+.checked {
+position: fixed;
+}
 
+.label-primary1 {
+    font-size: 10px;
+    background-color: rgb(0, 158, 153);
+    color: #FFFFFF;
+    margin:7px 0px 14px 51px;
+    padding: 2px 2px 2px 1px;
+}
+
+
+
+section-3 {
+    float: left;
+    width: 53.8%;
+    background-color: white;
+    height: 332px;
+    margin: 26px 0px 0px -52px;
+}
+
+.world-wide {
+    font-size: 14px;
+    margin: -9px 9px 17px 0px;
+    border-bottom: 1px solid #e7eaec;
+    padding: 14px 4px 3px 15px;
+    height: 35px;
+}
+
+.tables1 {
+    width: 47%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-collapse: collapse;
+}
