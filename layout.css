@@ -1139,3 +1139,21 @@ section-3 {
     background-color: transparent;
     border-collapse: collapse;
 }
+
+tr > td {
+    border-top: 1px solid #e7eaec;
+    line-height: 1.42857;
+    vertical-align: top;
+}
+.text-center1 {
+    text-align: center;
+        padding: 9px;
+
+}
+.text-center small-20 {
+    text-align: center;
+}
+.photos {
+    display: flex;
+    float: right;
+}
