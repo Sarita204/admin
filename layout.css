@@ -495,15 +495,14 @@ h3 {
 .subtitle {
     color: grey;
 }
-
-.axis1 {
-    margin: 2px 2px 0px 2px;
+.sb{
+    margin :30px;
 }
 
 .no-margins {
     display: flex;
     float: right;
-    margin: -277px 172px;
+    margin: -225px -74px 0px 45px;
     font-size: 22px;
     font-style: normal;
     font-family: sans-serif;
@@ -515,7 +514,7 @@ h3 {
     display: flex;
     float: right;
     font-weight: 400;
-    margin: -243px 113px 0px 24px;
+    margin: -197px -132px 0px 24px;
     font-size: 12px;
     color: grey;
 }
@@ -523,7 +522,7 @@ h3 {
 .percent5 {
     display: flex;
     float: right;
-    margin: -239px 3px 0px 5px;
+    margin:-200px -242px 0px 5px;
     font-size: 11px;
 }
 
@@ -536,10 +535,10 @@ h3 {
     display: flex;
     float: right;
     box-sizing: border-box;
-    width: 200px;
+    width: 205px;
     height: 5px;
     background-color:#f4ecec;
-    margin: -221px 26px 0px 5px;
+    margin: -180px -227px 0px 5px;
 }
 
 .flex1 {
@@ -551,7 +550,7 @@ h3 {
 .no-margins1 {
     display: flex;
     float: right;
-    margin: -200px 169px;
+    margin: -156px -74px 0px 45px;
     font-size: 22px;
     font-style: normal;
     font-family: sans-serif;
@@ -564,7 +563,7 @@ h3 {
     display: flex;
     float: right;
     font-weight: 400;
-    margin: -170px 116px 0px 24px;
+    margin:-126px -126px 0px 24px;
     font-size: 12px;
     color: grey;
 }
@@ -572,7 +571,7 @@ h3 {
 .percent6 {
     display: flex;
     float: right;
-    margin: -171px 7px 0px 5px;
+    margin: -124px -242px 0px 5px;
     font-size: 11px;
 }
 
@@ -585,10 +584,10 @@ h3 {
     display: flex;
     float: right;
     box-sizing: border-box;
-    width: 200px;
+    width: 205px;
     height: 5px;
     background-color:#f4ecec;
-    margin: -147px 24px 0px 5px;
+    margin: -104px -227px 0px 5px;
 }
 
 .flex4 {
@@ -600,7 +599,7 @@ h3 {
 .no-margins2 {
     display: flex;
     float: right;
-    margin: -121px 164px;
+    margin: -82px -77px 0px 45px;
     font-size: 22px;
     font-style: normal;
     font-family: sans-serif;
@@ -613,7 +612,7 @@ h3 {
     display: flex;
     float: right;
     font-weight: 400;
-    margin: -93px 68px 0px 24px;
+    margin: -52px -174px 0px 24px;
     font-size: 12px;
     color: grey;
 }
@@ -621,7 +620,7 @@ h3 {
 .percent7 {
     display: flex;
     float: right;
-    margin: -93px -2px 0px 5px;
+    margin: -53px -247px 0px 5px;
     font-size: 11px;
 }
 
@@ -634,10 +633,10 @@ h3 {
     display: flex;
     float: right;
     box-sizing: border-box;
-    width: 200px;
+    width: 205px;
     height: 5px;
     background-color:#f4ecec;
-    margin: -73px 22px 0px 5px;
+    margin: -31px -228px 0px 5px;
 }
 
 .flex6 {
@@ -652,7 +651,7 @@ article {
     width: 25.8%;
     background-color: white;
     height: 750px;
-    margin: -12px 77px 0px 214px;
+    margin: 24px 77px 0px 214px;
  
 }
 .message {
@@ -920,7 +919,7 @@ section {
     width: 25.8%;
     background-color: white;
     height: 327px;
-    margin: -12px 0px 0px -51px;
+    margin: 25px 0px 0px -51px;
 }
 .user{
     font-size: 14px;
@@ -998,7 +997,7 @@ section-2 {
     width: 25.8%;
     background-color: white;
     height: 327px;
-    margin: -12px 0px 0px 27px;
+    margin: -2px 0px 0px 27px;
 }
 .list {
     font-size: 14px;
@@ -1156,4 +1155,16 @@ tr > td {
 .photos {
     display: flex;
     float: right;
+}
+.footer {
+    background-color: green;
+
+}
+
+footer {
+        float: left;
+        width: 84.5%;
+        background-color: white;
+        height: 46px;
+        margin: 85px 0px 0px -420px;
 }
