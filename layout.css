@@ -5,9 +5,9 @@ body {
 
 .header {
     background-color: white;
-    margin: -9px 8px 26px 52px;
+    margin: -9px 7px 26px 195px;
     display: flex;
-    width: 55.3rem;
+    width: 46.3rem;
     padding: 0px 159px;
     height: 56px;
 }
@@ -17,7 +17,7 @@ body {
     color: white;
     width: 33px;
     height: 27px;
-    margin: 13px -3px;
+    margin: 13px -4px 0px -145.5px;
     border-radius: 3px;
     font-size: 12px;
 }
@@ -44,7 +44,7 @@ body {
 
 .welcome {
     display: flex;
-    margin: 19px -9px 0px 349px;
+    margin: 19px -20px 0px 380px;
     border: 0px solid white;
     font-size: 13px;
     color: darkgrey;
@@ -54,69 +54,165 @@ body {
     font-size: 14px;
     color: #888888;
     font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 14px 0px 0px 5px;
+    margin: 15px -24px 0px 18px;
 }
 
 .notification {
-    color: darkgray;
     font-size: 14px;
     color: #888888;
     font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: -webkit-match-parent;
-    margin: 14px 2px 0px -4px;
+    margin: 14px -3px 0px 26px;
 
 }
 
 .signout {
-    color: darkgray;
     font-size: 14px;
     color: #888888;
     font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: -webkit-match-parent;
-    margin: 14px 7px 0px -4px;
-
+    margin: 14px -28px 0px 0px;
 }
 
 .logout {
-    color: darkgray;
     font-size: 14px;
     color: #888888;
     font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: -webkit-match-parent;
-    margin: 21px 4px 0px 2px;
+    margin: 21px -22px 0px 28px;
 
 }
 
 .controller {
-    margin: 14px -61px 0px 1px;
+    margin: 14px -86px 0px 22px;
 }
 
 .photo {
-    margin: 15px;
+    margin: 26.5px 20px -2px 20px;
 }
 
 .headding {
     color: white;
     font-size: medium;
+}
+.dashboard {
+    margin: -7px 0px 1px -22px;
+    border-bottom: 1px solid #303c60;
+    border-top: 1px solid #303c60;
+}
+
+.row1 {
+        margin: -7px 0px 1px -23px;
+        border-bottom: 1px solid #303c60;
+    
+}
+
+.row2 {
+    margin: -7px 0px 1px -23px;
+    border-bottom: 1px solid #303c60;
 
 }
 
-h3 input {
-    font-size: 15px;
+.row3 {
+    margin: -7px 0px 1px -23px;
+    border-bottom: 1px solid #303c60;
+
+}
+
+.row4 {
+    margin: -7px 0px 1px -23px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row5 {
+        margin: -7px 0px 1px -23px;
+        border-bottom: 1px solid #303c60;
+    
+}
+.row6 {
+    margin: -7px 0px 1px -23px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row7 {
+    margin: -7px 0px 1px -23px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row8 {
+    margin: -7px 0px 1px -23px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row9 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row10 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row11 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row12 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row13 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row14 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row15 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+
+}
+.row16 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+}
+
+.row17 {
+    margin: -7px 0px 1px -24px;
+    border-bottom: 1px solid #303c60;
+    background-color: rgb(10, 173, 138);;
+
+}
+.row18 {
+    margin: -7px 0px 1px -21px;
+    border-bottom: 1px solid #303c60;
+    background-color: rgb(10, 173, 138);
+
+}
+
+h3 input{
+    font-size: 11.5px;
+    margin: 1px 3px;
 }
 
 .sidenav {
-    height: 100%;
+    height: 237.2%;
     width: 198px;
-    position: fixed;
-    z-index: 1;
+    position: absolute;
     top: 0;
     left: 0;
-    background-color: rgb(41, 47, 66);
+    background-color: rgb(44, 58, 66);
 }
 
 .sidenav a {
-    padding: 6px 32px 6px 32px;
+    padding: 10px 32px 6px 32px;
     text-decoration: none;
     font-size: 13px;
     color: white;
@@ -489,7 +585,27 @@ h1 {
 }
 
 h3 {
-    font-size: 14px;
+        font-size: 11.5px;
+        margin: 1px 3px;
+        font-weight: 600;
+        font-family: Bold, sans-serif;
+
+}
+.subheadding {
+    color: #b5b4b4;
+    font-size: 12px;
+    margin: 3px;
+    font-weight: 100;
+}
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 4px dashed;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
 }
 
 .subtitle {
@@ -653,9 +769,6 @@ article {
     height: 750px;
     margin: 24px 77px 0px 214px;
  
-}
-.message {
-    color:lightgray;
 }
 h5 {
         color: #464242;
@@ -991,6 +1104,13 @@ td {
         margin-left: 8px;
         padding: 2px 4px 2px 4px;
 }
+.label-primary2 {
+    font-size: 10px;
+    background-color: white;
+    color: rgb(0, 158, 153);
+    margin-left: 8px;
+    padding: 2px 4px 2px 4px;
+}
 
 section-2 {
     float: left;
@@ -1156,15 +1276,11 @@ tr > td {
     display: flex;
     float: right;
 }
+
 .footer {
-    background-color: green;
-
-}
-
-footer {
-        float: left;
-        width: 84.5%;
-        background-color: white;
-        height: 46px;
-        margin: 85px 0px 0px -420px;
+    float: left;
+    width: 85%;
+    background-color: white;
+    height: 42px;
+    margin: 85px -606px 0px -418px;
 }
