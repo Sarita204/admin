@@ -1,6 +1,7 @@
 body {
     font-family: "Lato", sans-serif;
     background-color: whitesmoke;
+
 }
 
 .header {
@@ -17,7 +18,7 @@ body {
     color: white;
     width: 33px;
     height: 27px;
-    margin: 13px -4px 0px -145.5px;
+    margin: 13px 11px 0px -127.5px;
     border-radius: 3px;
     font-size: 12px;
 }
@@ -34,7 +35,7 @@ body {
 }
 
 .search {
-    margin: 21px 19px 0px 19px;
+    margin: 21px -1px 0px 0px;
     border: 0px solid white;
     padding: 0px;
     font-size: 13px;
@@ -95,6 +96,7 @@ body {
     color: white;
     font-size: medium;
 }
+
 .dashboard {
     margin: -7px 0px 1px -22px;
     border-bottom: 1px solid #303c60;
@@ -102,9 +104,9 @@ body {
 }
 
 .row1 {
-        margin: -7px 0px 1px -23px;
-        border-bottom: 1px solid #303c60;
-    
+    margin: -7px 0px 1px -23px;
+    border-bottom: 1px solid #303c60;
+
 }
 
 .row2 {
@@ -124,61 +126,73 @@ body {
     border-bottom: 1px solid #303c60;
 
 }
+
 .row5 {
-        margin: -7px 0px 1px -23px;
-        border-bottom: 1px solid #303c60;
-    
+    margin: -7px 0px 1px -23px;
+    border-bottom: 1px solid #303c60;
+
 }
+
 .row6 {
     margin: -7px 0px 1px -23px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row7 {
     margin: -7px 0px 1px -23px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row8 {
     margin: -7px 0px 1px -23px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row9 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row10 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row11 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row12 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row13 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row14 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row15 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
 
 }
+
 .row16 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
@@ -187,9 +201,11 @@ body {
 .row17 {
     margin: -7px 0px 1px -24px;
     border-bottom: 1px solid #303c60;
-    background-color: rgb(10, 173, 138);;
+    background-color: rgb(10, 173, 138);
+    ;
 
 }
+
 .row18 {
     margin: -7px 0px 1px -21px;
     border-bottom: 1px solid #303c60;
@@ -197,7 +213,7 @@ body {
 
 }
 
-h3 input{
+h3 input {
     font-size: 11.5px;
     margin: 1px 3px;
 }
@@ -258,7 +274,7 @@ h3 input{
     text-shadow: none;
     border-radius: 0.25em;
     line-height: 1;
-    white-space: nowrap;
+    white-space: wrap;
     margin: -22px 9px 15px 1px;
     color: gray;
 }
@@ -270,7 +286,7 @@ h3 input{
     text-shadow: none;
     border-radius: 0.25em;
     line-height: 1;
-    white-space: nowrap;
+    white-space: wrap;
     background-color: #1c84c6;
     color: white;
     margin: 11px 104px;
@@ -327,7 +343,7 @@ h1 {
     text-shadow: none;
     border-radius: 0.25em;
     line-height: 1;
-    white-space: nowrap;
+    white-space: wrap;
     margin: -22px 9px 15px 1px;
     color: gray;
 }
@@ -339,7 +355,7 @@ h1 {
     text-shadow: none;
     border-radius: 0.25em;
     line-height: 1;
-    white-space: nowrap;
+    white-space: wrap;
     background-color: skyblue;
     color: white;
     margin: 11px 110px
@@ -585,18 +601,20 @@ h1 {
 }
 
 h3 {
-        font-size: 11.5px;
-        margin: 1px 3px;
-        font-weight: 600;
-        font-family: Bold, sans-serif;
+    font-size: 11.5px;
+    margin: 1px 3px;
+    font-weight: 600;
+    font-family: Bold, sans-serif;
 
 }
+
 .subheadding {
     color: #b5b4b4;
     font-size: 12px;
     margin: 3px;
     font-weight: 100;
 }
+
 .caret {
     display: inline-block;
     width: 0;
@@ -611,8 +629,9 @@ h3 {
 .subtitle {
     color: grey;
 }
-.sb{
-    margin :30px;
+
+.sb {
+    margin: 30px;
 }
 
 .no-margins {
@@ -638,7 +657,7 @@ h3 {
 .percent5 {
     display: flex;
     float: right;
-    margin:-200px -242px 0px 5px;
+    margin: -200px -242px 0px 5px;
     font-size: 11px;
 }
 
@@ -653,7 +672,7 @@ h3 {
     box-sizing: border-box;
     width: 205px;
     height: 5px;
-    background-color:#f4ecec;
+    background-color: #f4ecec;
     margin: -180px -227px 0px 5px;
 }
 
@@ -679,7 +698,7 @@ h3 {
     display: flex;
     float: right;
     font-weight: 400;
-    margin:-126px -126px 0px 24px;
+    margin: -126px -126px 0px 24px;
     font-size: 12px;
     color: grey;
 }
@@ -702,7 +721,7 @@ h3 {
     box-sizing: border-box;
     width: 205px;
     height: 5px;
-    background-color:#f4ecec;
+    background-color: #f4ecec;
     margin: -104px -227px 0px 5px;
 }
 
@@ -751,7 +770,7 @@ h3 {
     box-sizing: border-box;
     width: 205px;
     height: 5px;
-    background-color:#f4ecec;
+    background-color: #f4ecec;
     margin: -31px -228px 0px 5px;
 }
 
@@ -768,14 +787,15 @@ article {
     background-color: white;
     height: 750px;
     margin: 24px 77px 0px 214px;
- 
+
 }
+
 h5 {
-        color: #464242;
-        margin: 13px 0px 35px 0px;
-        height: 7px;
-        font-size: 13px;
-        font-weight: 500;
+    color: #464242;
+    margin: 13px 0px 35px 0px;
+    height: 7px;
+    font-size: 13px;
+    font-weight: 500;
 }
 
 
@@ -793,6 +813,7 @@ h5 {
     margin: -48px 5px;
     font-size: 12px;
 }
+
 .Message-box {
     background-color: #f3f6fb;
     color: rgb(141, 136, 136);
@@ -803,6 +824,7 @@ h5 {
     border-top: 1px solid #e7eaec;
     border-bottom: 1px solid #e7eaec;
 }
+
 .head-line {
     font-size: 22px;
     margin: -23px 0px 0px 44px;
@@ -812,12 +834,14 @@ h5 {
 .small5 {
     color: gray;
     font-size: 10px;
-    margin:10px 15px -27px 16px;
+    margin: 10px 15px -27px 16px;
 }
+
 .message-feeding-list {
     border-bottom: 1px solid #e7eaec;
 
 }
+
 .small6 {
     display: flex;
     float: right;
@@ -833,11 +857,13 @@ h5 {
     font-weight: bolder;
 
 }
+
 .content {
     font-size: 12px;
     color: #867b7b;
     margin: -24px 19px;
 }
+
 .small7 {
     font-size: 9.5px;
     color: #565252;
@@ -848,6 +874,7 @@ h5 {
 .message-feeding-list1 {
     border-top: 1px solid #e7eaec;
 }
+
 .small8 {
     display: flex;
     float: right;
@@ -863,20 +890,24 @@ h5 {
     font-weight: bolder;
 
 }
+
 .content1 {
     font-size: 12px;
     color: #867b7b;
     margin: -14px 19px;
 }
+
 .small9 {
     font-size: 9.5px;
     color: #565252;
     margin: 20px 15px 15px 19px;
     font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 .message-feeding-list2 {
     border-top: 1px solid #e7eaec;
 }
+
 .small10 {
     display: flex;
     float: right;
@@ -892,11 +923,13 @@ h5 {
     font-weight: bolder;
 
 }
+
 .content2 {
     font-size: 12px;
     color: #867b7b;
     margin: -14px 19px;
 }
+
 .small11 {
     font-size: 9.5px;
     color: #565252;
@@ -908,6 +941,7 @@ h5 {
 .message-feeding-list3 {
     border-top: 1px solid #e7eaec;
 }
+
 .small12 {
     display: flex;
     float: right;
@@ -923,11 +957,13 @@ h5 {
     font-weight: bolder;
 
 }
+
 .content3 {
     font-size: 12px;
     color: #867b7b;
     margin: -14px 19px;
 }
+
 .small13 {
     font-size: 9.5px;
     color: #565252;
@@ -939,6 +975,7 @@ h5 {
 .message-feeding-list4 {
     border-top: 1px solid #e7eaec;
 }
+
 .small14 {
     display: flex;
     float: right;
@@ -954,11 +991,13 @@ h5 {
     font-weight: bolder;
 
 }
+
 .content4 {
     font-size: 12px;
     color: #867b7b;
     margin: -14px 19px;
 }
+
 .small15 {
     font-size: 9.5px;
     color: #565252;
@@ -969,6 +1008,7 @@ h5 {
 .message-feeding-list5 {
     border-top: 1px solid #e7eaec;
 }
+
 .small16 {
     display: flex;
     float: right;
@@ -984,11 +1024,13 @@ h5 {
     font-weight: bolder;
 
 }
+
 .content5 {
     font-size: 12px;
     color: #867b7b;
     margin: -14px 19px;
 }
+
 .small17 {
     font-size: 9.5px;
     color: #565252;
@@ -1000,6 +1042,7 @@ h5 {
     border-top: 1px solid #e7eaec;
     border-bottom: 1px solid #e7eaec;
 }
+
 .small18 {
     display: flex;
     float: right;
@@ -1015,11 +1058,13 @@ h5 {
     font-weight: bolder;
 
 }
+
 .content6 {
     font-size: 12px;
     color: #867b7b;
     margin: -14px 19px;
 }
+
 .small19 {
     font-size: 9.5px;
     color: #565252;
@@ -1034,7 +1079,8 @@ section {
     height: 327px;
     margin: 25px 0px 0px -51px;
 }
-.user{
+
+.user {
     font-size: 14px;
     margin: -9px 9px 17px 0px;
     border-bottom: 1px solid #e7eaec;
@@ -1043,11 +1089,11 @@ section {
 }
 
 .tables {
-        width: 100%;
-        max-width: 100%;
-        margin-bottom: 1rem;
-        background-color: transparent;
-        border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-collapse: collapse;
 }
 
 thead {
@@ -1061,6 +1107,7 @@ tr {
     vertical-align: inherit;
     border-color: inherit;
 }
+
 th {
     line-height: 0px;
     padding: 16px 14px 14px 5px;
@@ -1080,14 +1127,16 @@ small {
     font-size: 13px;
     margin: 16px 3px 22px 10px;
 }
+
 td {
     display: table-cell;
     vertical-align: inherit;
     font-size: 12px;
 
 }
+
 .text-navy {
-    color:rgb(0, 158, 153);
+    color: rgb(0, 158, 153);
 }
 
 .label {
@@ -1095,15 +1144,17 @@ td {
     background-color: #f8ac59;
     color: #FFFFFF;
     margin-left: 11px;
-    padding:2px 5px 2px 5px;
+    padding: 2px 5px 2px 5px;
 }
+
 .label-primary {
-        font-size: 10px;
-        background-color: rgb(0, 158, 153);
-        color: #FFFFFF;
-        margin-left: 8px;
-        padding: 2px 4px 2px 4px;
+    font-size: 10px;
+    background-color: rgb(0, 158, 153);
+    color: #FFFFFF;
+    margin-left: 8px;
+    padding: 2px 4px 2px 4px;
 }
+
 .label-primary2 {
     font-size: 10px;
     background-color: white;
@@ -1119,6 +1170,7 @@ section-2 {
     height: 327px;
     margin: -2px 0px 0px 27px;
 }
+
 .list {
     font-size: 14px;
     margin: -9px 9px 17px 0px;
@@ -1126,9 +1178,11 @@ section-2 {
     padding: 14px 4px 3px 15px;
     height: 35px;
 }
+
 .todo-list m-t small-list {
     background-color: white;
 }
+
 .text-box {
     width: 290px;
     height: 30px;
@@ -1144,6 +1198,7 @@ section-2 {
     font-size: 12px;
     text-decoration: line-through;
 }
+
 .text-box2 {
     width: 290px;
     height: 30px;
@@ -1211,6 +1266,7 @@ section-2 {
 .check-box6 {
     font-size: 12px;
 }
+
 .text-box7 {
     width: 290px;
     height: 30px;
@@ -1221,15 +1277,16 @@ section-2 {
 .check-box7 {
     font-size: 12px;
 }
+
 .checked {
-position: fixed;
+    position: fixed;
 }
 
 .label-primary1 {
     font-size: 10px;
     background-color: rgb(0, 158, 153);
     color: #FFFFFF;
-    margin:7px 0px 14px 51px;
+    margin: 7px 0px 14px 51px;
     padding: 2px 2px 2px 1px;
 }
 
@@ -1259,19 +1316,22 @@ section-3 {
     border-collapse: collapse;
 }
 
-tr > td {
+tr>td {
     border-top: 1px solid #e7eaec;
     line-height: 1.42857;
     vertical-align: top;
 }
+
 .text-center1 {
     text-align: center;
-        padding: 9px;
+    padding: 9px;
 
 }
+
 .text-center small-20 {
     text-align: center;
 }
+
 .photos {
     display: flex;
     float: right;
